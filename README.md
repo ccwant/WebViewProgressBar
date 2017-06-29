@@ -9,3 +9,5 @@
 ## 简介
 
 ![image](https://github.com/CCwant/WebViewProgressBar/blob/master/Doc/boot.gif)
+
+[Download Apk](https://github.com/CCwant/WebViewProgressBar/blob/master/Doc/WebViewProgressBar-demo.apk) 

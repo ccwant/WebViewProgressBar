@@ -11,4 +11,4 @@
 ![image](https://github.com/CCwant/WebViewProgressBar/blob/master/Doc/boot.gif)
 
 ## 下载APK体验
-[Download Apk](https://github.com/CCwant/WebViewProgressBar/blob/master/Apk/WebViewProgressBar-demo.apk) 
+[Download Apk](https://github.com/CCwant/WebViewProgressBar/raw/master/Apk/WebViewProgressBar-demo.apk) 
